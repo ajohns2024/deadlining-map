@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Example Case",
+        "status": "Missing",
+        "year": 2024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02, 38.91]
+      }
+    }
+  ]
+}
